@@ -9,7 +9,6 @@ const port = 8000;
 
 //rotas
 
-
 app.listen(port, () => {
   console.log(`Escutando a porta ${port}`)
 });
