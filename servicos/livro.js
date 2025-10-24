@@ -1,5 +1,4 @@
 const fs = require("fs")
-const { patchLivro } = require("../controladores/livro")
 
 function getTodosLivros() {
   return JSON.parse( fs.readFileSync("livros.json") )
