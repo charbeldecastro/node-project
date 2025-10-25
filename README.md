@@ -7,6 +7,7 @@ Projeto de estudo de Node.js e Express feito em acompanhamento do curso Node.js:
 - Instalação: [Nodemon](https://www.npmjs.com/package/nodemon)
 - Banco de Dados: [Artigo](https://medium.com/sysadminas/banco-de-dados-af36571670ee)
 -  Status de respostas HTTP: [Códigos](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Status)
+-  Testes de API: [Postman](https://medium.com/@thiagogrespi/testes-de-api-parte-1-entendendo-e-botando-a-m%C3%A3o-na-massa-com-postman-b365923b83e1)
 
 ## Iniciando o projeto Node no terminal
   <code style="color: #d63333ff ">npm init</code> é um comando do Node Package Manager (npm) que inicializa um novo projeto Node.js, criando o arquivo package.json de forma interativa.
